@@ -1,4 +1,4 @@
 # ppe1
 🎉
 ⛷️
-Ceci est mon premier PPE en BTS SIO
+Ceci est mon premier PPE en BTS SIO, il est sur le ski.
